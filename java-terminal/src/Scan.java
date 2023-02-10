@@ -22,5 +22,7 @@ public class Scan {
         System.out.println("Tenho "+ idade +" anos");
         System.out.println("E tenho "+ altura +" de altura!");
 
+        scan.close();
+
     }
 }
