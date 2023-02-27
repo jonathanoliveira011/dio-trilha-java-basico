@@ -8,3 +8,6 @@ Alguns conteúdos aprendidos até aqui
 - Estruturas principais
 - Variáveis
 - Métodos
+
+## Meu perfil do Linkedin
+[Linkedin - Jonathan Franks](https://www.linkedin.com/in/jonathan-oliveira-85519b229)
