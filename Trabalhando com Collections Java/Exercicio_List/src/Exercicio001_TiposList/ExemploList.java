@@ -1,4 +1,4 @@
-package Exercicio001;
+package Exercicio001_TiposList;
 
 import java.util.ArrayList;
 import java.util.Arrays;
