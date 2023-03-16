@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99075aa7-aec5-4b17-b230-3d7822fce9a3" name="Changes" comment="Inserção das classes que trabalham com Set e Comparações">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio_List.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Exercicio001_TiposList/ExemploList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Exercicio002_OrdenacaoList/ExemploOrdenacaoList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Exercicio002_OrdenacaoList/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio001_TiposList/ExemploList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio002_OrdenacaoList/ComparatorCor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio002_OrdenacaoList/ComparatorIdade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio002_OrdenacaoList/ComparatorNomeCorIdade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio002_OrdenacaoList/ExemploOrdenacaoList$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio002_OrdenacaoList/ExemploOrdenacaoList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio002_OrdenacaoList/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio003_TemperaturaMedia/Temperatura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio004_SuspeitoCrime/Suspeito.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio005_ExemploSet/ExemploSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio006_OrdenacaoSet/ComparatorNomeGeneroTempoEpisodio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio006_OrdenacaoSet/OrdenacaoSet$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio006_OrdenacaoSet/OrdenacaoSet$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio006_OrdenacaoSet/OrdenacaoSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio006_OrdenacaoSet/Serie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio007_LinguagensFavoritas/Linguagens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio007_LinguagensFavoritas/LinguagensFavoritas$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicio_List/Exercicio007_LinguagensFavoritas/LinguagensFavoritas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio001_TiposList/ExemploList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio002_OrdenacaoList/ExemploOrdenacaoList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio003_TemperaturaMedia/Temperatura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio004_SuspeitoCrime/Suspeito.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio005_ExemploSet/ExemploSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio006_OrdenacaoSet/OrdenacaoSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio007_LinguagensFavoritas/LinguagensFavoritas.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a9bff986-39f2-4ae7-9c5e-81c822ee3158" />
+        <option name="url" value="https://github.com/jonathanoliveira011/dio-trilha-java-basico.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MyMYizs4NxkAUBVeEIklzwOtAs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Dev/DIO/dio-trilha-java-basico/Trabalhando com Collections Java/Exercicio_List&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Exercicio007_LinguagensFavoritas" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99075aa7-aec5-4b17-b230-3d7822fce9a3" name="Changes" comment="" />
+      <created>1678735420127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678735420127</updated>
+    </task>
+    <task id="LOCAL-00001" summary="#">
+      <created>1678820795328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678820795328</updated>
+    </task>
+    <task id="LOCAL-00002" summary="#">
+      <created>1678823435934</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678823435934</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#">
+      <created>1678907165162</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678907165163</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Inserção das classes que trabalham com Set e Comparações">
+      <created>1678979711001</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678979711002</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#" />
+    <MESSAGE value="Inserção das classes que trabalham com Set e Comparações" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserção das classes que trabalham com Set e Comparações" />
+  </component>
+</project>
