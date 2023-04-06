@@ -4,9 +4,9 @@ import java.time.LocalDate;
 
 public class Mentoria {
 
-    String titulo;
-    String descricao;
-    LocalDate data;
+    private String titulo;
+    private String descricao;
+    private LocalDate data;
 
     public String getTitulo() {
         return titulo;
