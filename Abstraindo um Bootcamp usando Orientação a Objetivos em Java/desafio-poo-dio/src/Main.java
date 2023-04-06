@@ -1,3 +1,4 @@
+import br.com.dio.desafio.dominio.Conteudo;
 import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Mentoria;
 
@@ -15,6 +16,11 @@ public class Main {
         curso2.setTitulo("Curso de JavaScript");
         curso2.setDescricao("Descrição do curso de JavaScript");
         curso2.setCargaHoraria(12);
+
+        //Polimorfismo
+        //É possível estanciar a classe Curso e Mentoria (classes filhas) a partir de Conteudo (classe mãe)
+        Conteudo c1 = new Curso();
+        Conteudo c2 = new Mentoria();
 
 
         Mentoria mentoria1 = new Mentoria();
