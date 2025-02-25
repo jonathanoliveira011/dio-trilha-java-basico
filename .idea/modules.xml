@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java e Tratamento de Excecoes/Java e Tratamento de Excecoes.iml" filepath="$PROJECT_DIR$/Java e Tratamento de Excecoes/Java e Tratamento de Excecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tipos de Estruturas de Repeticao/Tipos de Estruturas de Repeticao.iml" filepath="$PROJECT_DIR$/Tipos de Estruturas de Repeticao/Tipos de Estruturas de Repeticao.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
     </modules>
   </component>
